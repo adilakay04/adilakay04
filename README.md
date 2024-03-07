@@ -2,9 +2,9 @@
 - 👀 I’m interested in web designer
 - 🌱 I’m currently learning web design,html,css,javascript
 - 💞️ I’m looking to collaborate on yazimohti
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 📫 How to reach me adilakay04@gmail.com
+- 😄 Pronouns:he/him
+- ⚡ Fun fact: 
 
 <!---
 adilakay04/adilakay04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
